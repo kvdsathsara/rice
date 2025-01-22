@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721939187811",
+    "project_id": "selfcooking-ac3b0",
+    "storage_bucket": "selfcooking-ac3b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721939187811:android:771aba67aea93ac1841056",
+        "android_client_info": {
+          "package_name": "com.example.rice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06F5ghBdvh7bfoa7gyP5WbYP5WCY2zxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
